@@ -1,5 +1,5 @@
-# Aprillabspractice
-AprilLab Spring Practice 
+# AprilLabsPractice
+AprilLabs Practice 
 The goal is to implement following functions
 * Create a listing with the following properties
   - address
