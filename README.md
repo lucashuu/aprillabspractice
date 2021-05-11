@@ -153,8 +153,6 @@ public class CreateListingRequestDto {
     }
 }
 ```
-## Contributing
+## What is Next
 It is may   not be the prefect and final version if I have more time, I will continue to work on it to perfect my features
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
